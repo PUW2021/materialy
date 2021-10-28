@@ -21,7 +21,6 @@ Zbiór materiałów i notatek w celach wywalczenia Inżyniera
 Pobranie projektu
 ```bash
   git clone git@github.com:PUW2021/materialy.git
-  git fetch --all
 ```
 Pobranie zmian do projektu gdy już jest na dysku
 ```bash
