@@ -13,6 +13,24 @@ Zbiór materiałów i notatek w celach wywalczenia Inżyniera
  - [Algorytmy](https://github.com/PUW2021/materialy/tree/algorytmy-struktury-danych)
  - [Analiza Matematyczna](https://github.com/PUW2021/materialy/tree/analiza-matematyczna)
  - [Architektura systemów](https://github.com/PUW2021/materialy/tree/architektura-systemow)
+ - [Teoretyczne podstawy informatyki](https://github.com/PUW2021/materialy/tree/teoretyczne-podstawy-informatyki)
+
+
+## Koszerna Obsługa
+
+Pobranie projektu
+```bash
+  git clone git@github.com:PUW2021/materialy.git
+  git fetch --all
+```
+Pobranie zmian do projektu gdy już jest na dysku
+```bash
+  git fetch --all
+```
+Zmiana aktywnego przedmiotu
+```bash
+  git checkout teoretyczne-podstawy-informatyki
+```
 
 
 ## 🔗 Górnik od materiałów
